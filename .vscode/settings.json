@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "graphic_defs.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc-12",
+    "cmake.configureOnOpen": false,
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.intelliSenseEngineFallback": "disabled"
+}
